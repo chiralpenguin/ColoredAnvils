@@ -1,5 +1,9 @@
-# Compiled class file
-*.class
+# IntelliJ Files
+ColoredAnvils.iml
+.idea/
+
+# Target Directory
+target/
 
 # Log file
 *.log
