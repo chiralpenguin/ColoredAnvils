@@ -6,7 +6,7 @@
 
     <groupId>me.flamingkatana</groupId>
     <artifactId>ColoredAnvils</artifactId>
-    <version>1.10</version>
+    <version>1.11</version>
     <build>
         <plugins>
             <plugin>
