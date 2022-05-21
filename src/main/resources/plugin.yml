@@ -1,8 +1,8 @@
 name: ColoredAnvils
 main: me.flamingkatana.coloredanvils.ColoredAnvils
-version: 1.11
+version: 1.12
 author: Flaming_Katana, NoChanceSD
-api-version: 1.16
+api-version: 1.18
 permissions:
     coloredanvils.*:
         description: Gives access to all ColoredAnvils actions.
